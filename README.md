@@ -6,59 +6,68 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos desenvolvidos du
 
 ## 👨‍💻 Sobre mim
 
-- 🧠 Estudante universitário apaixonado por tecnologia
-- 🏙️ Natural de Santos-SP
-- 🍳 Curioso na cozinha e fã de boas receitas
-- 🌍 Interessado em culturas como Finlândia 🇫🇮, EUA 🇺🇸 e Escócia 🏴
+- 🧠 Estudante universitário apaixonado por tecnologia  
+- 🏙️ Natural de Santos-SP  
+- 🍳 Curioso na cozinha e fã de boas receitas  
+- 🌍 Interessado em culturas como Finlândia 🇫🇮, EUA 🇺🇸 e Escócia 🏴  
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-- Linguagem Python
-- Estruturas condicionais (`if`, `elif`, `else`)
-- Laços de repetição (`while`, `for`)
-- Funções e modularização
-- Manipulação de listas e dicionários
-- Validação de entrada e tratamento de erros (`try/except`)
+- Linguagem Python  
+- Estruturas condicionais (`if`, `elif`, `else`)  
+- Laços de repetição (`while`, `for`)  
+- Funções e modularização  
+- Manipulação de listas e dicionários  
+- Validação de entrada e tratamento de erros (`try/except`)  
 
 ---
 
 ## 🛠️ Projetos Acadêmicos
 
-### 1. 💳 Sistema de Vendas Parceladas
+### 1. 💳 Projeto 1 — `sistema-vendas_parceladas.py`  
 Simula um app de vendas com cálculo de juros conforme o número de parcelas escolhidas pelo cliente.  
 ➡️ Utiliza estruturas condicionais e operações matemáticas.
 
-📁 [`Projeto 1 sistema-vendas_parceladas.py`](Projeto 1 sistema-vendas_parceladas.py)
+📁 [`projetos/sistema-vendas`](projetos/sistema-vendas)
 
 ---
 
-### 2. 🍱 Menu de Marmitas
+### 2. 🍱 Projeto 2 — `marmitas_menu.py`  
 Interface de pedidos com validação de entrada, controle de fluxo e cálculo do valor total de marmitas.  
 ➡️ Usa `while`, `continue`, `break` e lógica aninhada.
 
-📁 [`Projeto 2 marmitas_menu.py`](Projeto 2 marmitas_menu.py)
+📁 [`projetos/marmitas`](projetos/marmitas)
 
 ---
 
-### 3. 👕 Fábrica de Camisetas
+### 3. 👕 Projeto 3 — `camisetas_fabrica.py`  
 Sistema de cobrança com funções, descontos progressivos e opções de frete para pedidos em atacado.  
 ➡️ Modularizado com funções e tratamento de exceções.
 
-📁 [`Projeto 3 camisetas_fabrica.py`](Projeto 3 camisetas_fabrica.py)
+📁 [`projetos/camisetas`](projetos/camisetas)
 
 ---
 
-### 4. 🧾 Gerenciador de Funcionários
+### 4. 🧾 Projeto 4 — `sistema_funcionarios.py`  
 Sistema completo com cadastro, consulta, remoção e menu interativo para gerenciamento de colaboradores.  
 ➡️ Utiliza listas de dicionários, menus interativos e lógica de busca.
 
-📁 [`Projeto 4 funcionarios sistema_funcionarios.py`](Projeto 4 funcionarios sistema_funcionarios.py)
+📁 [`projetos/funcionarios`](projetos/funcionarios)
 
 ---
 
 ## 📫 Contato
+
+- ✉️ Email: kauasp2003@outlook.com  
+- 🔗 LinkedIn: [Kauã dos Santos](https://www.linkedin.com/in/kauã-dos-santos-82a770265)  
+- 🐙 GitHub: [github.com/ManoKakas](https://github.com/ManoKakas)
+
+---
+
+> _"A prática leva à perfeição — e cada linha de código é um passo a mais."_
+
 
 - ✉️ Email: kauasp2003@outlook.com  
 - 🔗 LinkedIn: [Kauã dos Santos](https://www.linkedin.com/in/kauã-dos-santos-82a770265)  
