@@ -38,7 +38,7 @@ Simula um app de vendas com cálculo de juros conforme o número de parcelas esc
 Interface de pedidos com validação de entrada, controle de fluxo e cálculo do valor total de marmitas.  
 ➡️ Usa `while`, `continue`, `break` e lógica aninhada.
 
-📁 [`projetos/marmitas`](projetos/marmitas)
+📁 [`Projeto 1 sistema-vendas_parceladas.py`](projetos/marmitas)
 
 ---
 
