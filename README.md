@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🎓 Portfólio Acadêmico — Kauã dos Santos Pinto
 
-<!--
-**ManoKakas/ManoKakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio! Aqui você encontrará os projetos desenvolvidos durante minha graduação na UNINTER, com foco em lógica de programação e algoritmos utilizando Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 🧠 Estudante universitário apaixonado por tecnologia
+- 🏙️ Natural de Santos-SP
+- 🍳 Curioso na cozinha e fã de boas receitas
+- 🌍 Interessado em culturas como Finlândia 🇫🇮, EUA 🇺🇸 e Escócia 🏴
+
+---
+
+## 🧠 Habilidades Técnicas
+
+- Linguagem Python
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Laços de repetição (`while`, `for`)
+- Funções e modularização
+- Manipulação de listas e dicionários
+- Validação de entrada e tratamento de erros (`try/except`)
+
+---
+
+## 🛠️ Projetos Acadêmicos
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: kauasp2003@outlook.com  
+- 🔗 LinkedIn: [Kauã dos Santos](https://www.linkedin.com/in/kauã-dos-santos-82a770265)  
+- 🐙 GitHub: [github.com/ManoKakas](https://github.com/ManoKakas)
+
+---
+
+> _"A prática leva à perfeição — e cada linha de código é um passo a mais."_
