@@ -26,6 +26,36 @@ Bem-vindo ao meu portfólio! Aqui você encontrará os projetos desenvolvidos du
 
 ## 🛠️ Projetos Acadêmicos
 
+### 1. 💳 Sistema de Vendas Parceladas
+Simula um app de vendas com cálculo de juros conforme o número de parcelas escolhidas pelo cliente.  
+➡️ Utiliza estruturas condicionais e operações matemáticas.
+
+📁 [`projetos/sistema-vendas`](projetos/sistema-vendas)
+
+---
+
+### 2. 🍱 Menu de Marmitas
+Interface de pedidos com validação de entrada, controle de fluxo e cálculo do valor total de marmitas.  
+➡️ Usa `while`, `continue`, `break` e lógica aninhada.
+
+📁 [`projetos/marmitas`](projetos/marmitas)
+
+---
+
+### 3. 👕 Fábrica de Camisetas
+Sistema de cobrança com funções, descontos progressivos e opções de frete para pedidos em atacado.  
+➡️ Modularizado com funções e tratamento de exceções.
+
+📁 [`projetos/camisetas`](projetos/camisetas)
+
+---
+
+### 4. 🧾 Gerenciador de Funcionários
+Sistema completo com cadastro, consulta, remoção e menu interativo para gerenciamento de colaboradores.  
+➡️ Utiliza listas de dicionários, menus interativos e lógica de busca.
+
+📁 [`projetos/funcionarios`](projetos/funcionarios)
+
 ---
 
 ## 📫 Contato
